@@ -1,0 +1,10 @@
+venv/
+.venv/
+.pylintrc
+__pycache__/
+
+.vscode
+.idee
+.env
+
+media/
